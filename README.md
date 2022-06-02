@@ -13,9 +13,9 @@ let's start this
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/dnettoRaw/libdr-in-rust?color=blueviolet" />
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/dnettoRaw/libdr-in-rust?color=blueviolet" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/dnettoRaw/libdr-in-rust?color=blue" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dnettoRaw/libdr-in-rust?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-cdnettoRaw/libdr-in-rust?color=brightgreen" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/dnettoRaw/libft-in-rust?color=blue" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dnettoRaw/libft-in-rust?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-cdnettoRaw/libft-in-rust?color=brightgreen" />
 </p>
 
 <h3 align="center">
