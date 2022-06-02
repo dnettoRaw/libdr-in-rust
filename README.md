@@ -11,11 +11,6 @@ let's start this
 </h1>
 
 <p align="center">
-	<b><i>Development repo for my rust progretion</i></b><br>
-	For further information about 42cursus and its projects, please refer to <a href="https://github.com/appinha/42cursus"><b>42cursus repo</b></a>.
-</p>
-
-<p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/dnettoRaw/libdr-in-rust?color=blueviolet" />
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/dnettoRaw/libdr-in-rust?color=blueviolet" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/dnettoRaw/libdr-in-rust?color=blue" />
