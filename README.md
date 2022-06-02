@@ -1,13 +1,13 @@
-# libft-in-rust
-try to make libft like in rust 
+# libdr-in-rust
+try to make libdr like in rust 
 
-libft is the first big project in 42.fr school, originaly this is in C but for funny i try to make this is rust 
+libdr is the first big project in 42.fr school, originaly this is in C but for funny i try to make this is rust 
 
 let's start this 
     
     :)
 <h1 align="center">
-	<s>42cursus</s> Rust libft
+	<s>42cursus</s> Rust libdr
 </h1>
 
 <p align="center">
@@ -16,11 +16,11 @@ let's start this
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/dnettoRaw/libft-in-rust?color=blueviolet" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/dnettoRaw/libft-in-rust?color=blueviolet" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/dnettoRaw/libft-in-rust?color=blue" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dnettoRaw/libft-in-rust?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-cdnettoRaw/libft-in-rust?color=brightgreen" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/dnettoRaw/libdr-in-rust?color=blueviolet" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/dnettoRaw/libdr-in-rust?color=blueviolet" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/dnettoRaw/libdr-in-rust?color=blue" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dnettoRaw/libdr-in-rust?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-cdnettoRaw/libdr-in-rust?color=brightgreen" />
 </p>
 
 <h3 align="center">
@@ -39,7 +39,7 @@ let's start this
 
 > _In 42 campus you can use only sommes lib's for the 'baned functions' you need to code that yourself, here i just make that with rust for train myself with rust._
 
-For detailed information from original project, refer to the [**subject of this project**](https://github.com/dnettoRaw/42_Subjects/blob/master/00_Projects/00_Global/libft.pdf).
+For detailed information from original project, refer to the [**subject of this project**](https://github.com/dnettoRaw/42_Subjects/blob/master/00_Projects/00_Global/libdr.pdf).
 
 	🚀 TLDR: this project consists of coding basic C functions (see below).
 
@@ -173,7 +173,7 @@ The library is written in Rust language and thus needs the **`cargo` compiler** 
 To compile the library, run:
 
 ```shell
-$ cd path/to/libft && make
+$ cd path/to/libdr && make
 ```
 
 **2. Using it in your code**
@@ -181,16 +181,16 @@ $ cd path/to/libft && make
 To use the library functions in your code, simply include its header:
 
 ```rust
-use dr_libft::{dn_myfunction}
+use dr_libdr::{dn_myfunction}
 ```
 
 ## 📋 Testing
 
-**1. First, configure the path to the libft folder in the Makefile (inside `/testing/`):**
+**1. First, configure the path to the libdr folder in the Makefile (inside `/testing/`):**
 
 ```Makefile
 #############################
-## Path to Libft directory ##
+## Path to Libdr directory ##
 #############################
 DIR		= ../
 ```
